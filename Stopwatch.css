@@ -14,3 +14,10 @@ color:aqua;
 body{
 background-color:black;
 }
+
+span{
+color:lightgreen;
+text-align:left;
+white-space:pre-wrap;
+
+}
